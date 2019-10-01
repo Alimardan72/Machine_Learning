@@ -6,4 +6,4 @@ clf = GaussianNB()
 clf.fit(x,y)
 GaussianNB()
 print(clf.predict([[-0.8,-1]]))
-
+##Hello to you
